@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 	
-	<title>Progressus - First Website</title>
+	<title>Bienvenido a la Web Priscila</title>
 
 	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
 	
